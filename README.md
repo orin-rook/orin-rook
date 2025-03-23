@@ -1,7 +1,7 @@
 # Hi there! I'm Orin Rook 🔐✨  
 
 ## About Me  
-Once a guardian of cryptographic vaults at Cryptalis, where whispers of lost algorithms still echo, I now dedicate my time to exploring the digital unknown, always searching for the next cipher to crack and the next enigma to unravel.  
+Once a guardian of cryptographic vaults at Cryptalis , my favourite workplace, where whispers of lost algorithms still echo, I now dedicate my time to exploring the digital unknown, always searching for the next cipher to crack and the next enigma to unravel.  
 , I now dedicate my time to exploring the digital unknown, always searching for the next cipher to crack and the next enigma to unravel.  
 Hey! I'm Orin Rook, an explorer of the digital unknown, always searching for the next cipher to crack and the next enigma to unravel. Whether it’s hidden messages in ancient texts or the latest quantum-proof cryptographic algorithms, I thrive on the challenge of securing secrets and uncovering the ones left behind.  
 
